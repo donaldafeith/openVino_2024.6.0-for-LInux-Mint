@@ -76,6 +76,12 @@ See `docs/licensing/` for license details. OpenVINO™ is distributed under the 
 ## Credits
 - [Intel® OpenVINO™ Toolkit](https://github.com/openvinotoolkit/openvino)
 - Adapted for Linux Mint Cinnamon by the community
+- **Edited and maintained by Donalda Feith**
+	- Senior AI Engineer | Full Stack Developer | AGI Researcher
+	- Specialized in LLMs, NLP, scalable systems, and ethical AI
+	- [GitHub](https://github.com/DonaldaFeith) | [LinkedIn](https://www.linkedin.com/in/donaldafeith/) | [Medium] (https://medium.com/@donalda) 
+
+For a full professional background, references, and certifications, please contact Donalda Feith directly.
 
 ---
 
